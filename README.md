@@ -45,8 +45,8 @@ Day 25 – recursion - memoization.ipynb → Recursive functions & optimization
 Day 26 – lambda-map-filter-reduce.ipynb → Functional programming in Python  
 
 🟠 Advanced Python  
-Day 27 – oops.ipynb → Object-Oriented Programming (classes, objects, inheritance) 
-Day 28 – threading - multi-processing.ipynb → Parallelism & concurrency  
+Day 27 – oops.ipynb → Object-Oriented Programming (classes, objects, inheritance)   
+Day 28 – threading - multi-processing.ipynb → Parallelism & concurrency    
 Day 29 – iterators.ipynb → Custom iterators & __iter__ method  
 Day 30 – generators.ipynb → Lazy evaluation & yield keyword  
 
