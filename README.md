@@ -1,4 +1,4 @@
-🐍 **Python Programming Journey**  
+🐍 **Python Programming Journey**   
 Welcome to my Python Learning Repository 🎉
 This repo contains my step-by-step journey of learning Python — from basics to advanced topics — organized into daily Jupyter Notebooks 📒 and practice programs.
 
