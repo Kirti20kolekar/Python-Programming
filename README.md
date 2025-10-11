@@ -4,7 +4,7 @@ This repo contains my step-by-step journey of learning Python — from basics to
 
 The goal of this repository is to:  
 ✔ Build a strong foundation in Python 🏗️  
-✔ Practice hands-on coding 👨‍💻  
+✔ Practice hands-on coding 👨‍💻   
 ✔ Work on small projects & exercises 💡  
 ✔ Document my progress like a coding diary 📅   
 
