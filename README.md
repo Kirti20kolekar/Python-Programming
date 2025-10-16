@@ -7,7 +7,7 @@ The goal of this repository is to:
 ✔ Practice hands-on coding 👨‍💻   
 ✔ Work on small projects & exercises 💡   
 ✔ Document my progress like a coding diary 📅    
-
+ 
 🟢 Basics  
 Day 01 – print-function.ipynb → Printing text & formatting output  
 Day 02 – data-types.ipynb → Numbers, strings, floats, booleans  
