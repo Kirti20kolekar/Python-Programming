@@ -6,7 +6,7 @@ The goal of this repository is to:
 ✔ Build a strong foundation in Python 🏗️  
 ✔ Practice hands-on coding 👨‍💻   
 ✔ Work on small projects & exercises 💡   
-✔ Document my progress like a coding diary 📅     
+✔ Document my progress like a coding diary 📅      
  
 🟢 Basics   
 Day 01 – print-function.ipynb → Printing text & formatting output  
